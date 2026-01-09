@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-**Flutter Developer & Software Engineer** • Cross-Platform Architect • BLoC Enthusiast • Backend Integration • GameDev (Unreal Engine)
+**Flutter & Frontend Developer | Software Engineer** • Cross-Platform Architect • BLoC Enthusiast • Web & Mobile Apps • GameDev (Unreal Engine)
 
 ---
 
@@ -14,6 +14,17 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![BLoC](https://img.shields.io/badge/BLoC-5C2D91?style=for-the-badge)
 ![Flutter Web](https://img.shields.io/badge/Flutter_Web-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+### **Frontend & Web Development**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Web Apps](https://img.shields.io/badge/Web_Applications-4CAF50?style=for-the-badge)
+
+### **UI/UX & Design**
+![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
+![UI/UX](https://img.shields.io/badge/UI/UX_Design-FF4088?style=for-the-badge)
 
 ### **Backend & API**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -44,31 +55,34 @@
 
 ### **Software Engineer @ GosNIIAS**
 - Development of **software systems using Unreal Engine**
-- **C++ gameplay & system logic development**
+- **C++ / Blueprint**: creating and maintaining libraries and system logic
 - **Semantic data markup and structuring**
-- Integration of visualization systems with internal tools
+- Integration of visualization and simulation systems
 - Participation in applied R&D software projects
 
-### **Flutter Developer / Fullstack Engineer**
-- Designing and developing **cross-platform mobile applications**
-- **Clean Architecture** with strict separation of layers
+### **Flutter / Frontend Developer**
+- Development of **mobile and web applications**
+- **Clean Architecture** and modular project structure
 - State management using **BLoC**
 - Backend integration via **REST APIs**
 - Authentication, media streaming, file uploads
+- Creating **React-based websites** (commercial & personal)
+- Working with **Figma**: layouts, UI kits, design-to-code
 - Deployment of backend services on **VPS servers**
 
 ---
 
 ## 🔥 Featured Projects
 
-### **Ski Club CRM System**
-**Mobile-first CRM platform for a ski school**
-- Flutter application with **BLoC architecture**
-- Client–server interaction via **FastAPI**
-- PostgreSQL as primary database
-- Dockerized backend with Nginx reverse proxy
+### **Ski Club CRM System (Web Application)**
+**CRM platform for a ski school**
+- Web application (Flutter Web)
+- **BLoC-based architecture**
+- Backend with **FastAPI**
+- PostgreSQL database
+- Dockerized backend with **Nginx reverse proxy**
 - Role-based access (clients, trainers, admins)
-- Video & course management modules
+- Course & video management
 - Deployed on VPS infrastructure
 
 ### **Video Courses Platform**
@@ -79,6 +93,13 @@
 - Video streaming with Range requests
 - Docker & Docker Compose deployment
 
+### **Commercial & Personal Websites**
+- React-based web applications
+- Responsive layouts
+- Design implementation from **Figma**
+- SEO-friendly structure
+- Deployed on VPS hosting
+
 ---
 
 ## 📊 Infrastructure Skills Matrix
@@ -87,11 +108,12 @@
 |---------|----------|---------------|----------|
 | **Flutter Development** | Advanced | 3+ years | Flutter, Dart |
 | **State Management** | Advanced | 2+ years | BLoC |
+| **Frontend (React)** | Middle | 2+ years | React, JS, HTML, CSS |
+| **UI/UX Design** | Advanced | 3+ years | Figma |
 | **Backend APIs** | Middle | 2+ years | FastAPI, REST |
 | **Databases** | Middle | 2+ years | PostgreSQL |
 | **Docker & Containers** | Middle | 2+ years | Docker, Compose |
 | **Linux Administration** | Middle | 3+ years | Ubuntu, VPS |
-| **CI/CD Basics** | Junior | 1+ year | GitHub Actions |
 | **Game Development** | Middle | 2+ years | Unreal Engine, C++ |
 | **System Architecture** | Middle | 2+ years | Clean Architecture |
 
@@ -99,13 +121,13 @@
 
 ## 🚀 What I Bring to the Table
 
-- **Production-ready Flutter applications**
-- Clean, scalable **BLoC-based architecture**
-- Real-world **client–server systems**
-- Experience with **video streaming platforms**
-- Backend deployment and maintenance
-- Strong understanding of **software architecture**
-- Combination of **mobile, backend, and game development**
+- **Full-cycle application development** (design → frontend → backend → deployment)
+- Clean and scalable **BLoC-based architecture**
+- Production-ready **web and mobile applications**
+- Strong **UI/UX mindset** with Figma-to-code workflow
+- Experience in **React, Flutter, and Unreal Engine**
+- Backend integration and infrastructure deployment
+- Solid understanding of **software architecture**
 
 ---
 
@@ -116,6 +138,6 @@
 
 ---
 
-> *"I build applications where architecture matters, performance scales, and code stays clean."*
+> *"I build systems where architecture, design, and code work together as one."*
 
 ⭐ *From [GerardDugal](https://github.com/GerardDugal)*
