@@ -1,20 +1,17 @@
 <div align="center">
-  <!-- Анимированный заголовок с эффектом печати -->
-  <h1>
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=4000&pause=1000&color=4A90E2&center=true&vCenter=true&width=600&height=60&lines=Hey+there+👋;I'm+GerardDugal;Flutter+%26+Frontend+Developer;Software+Engineer;Welcome+to+my+GitHub!" alt="Typing SVG" />
-    </a>
-  </h1>
-  
-  <!-- Анимированная эмодзи -->
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=GerardDugal&fontSize=50&fontAlignY=35&animation=twinkling"
+/>
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&width=800&lines=Flutter+%26+Frontend+Developer;Software+Engineer;Web+%26+Mobile+Applications;Clean+Architecture+%7C+BLoC+%7C+React"
+/>
+
 </div>
 
-<p align="center">
-  <b>Flutter & Frontend Developer | Software Engineer</b> • Cross-Platform Architect • BLoC Enthusiast • Web & Mobile Apps • GameDev (Unreal Engine)
-</p>
-
 ---
+
 
 ## 🛠️ Tech Stack & Expertise
 
